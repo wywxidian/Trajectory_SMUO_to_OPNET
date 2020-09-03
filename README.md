@@ -1,6 +1,6 @@
-[中文版](README_CN.md)
+English Version/[中文版](README_CN.md)
 
-[Full Version Documents](README_EN.pdf)
+[Full Version Documents](README_EN.pdf)/[完整版手册](README_CN.PDF)
 
 # Summary
 
