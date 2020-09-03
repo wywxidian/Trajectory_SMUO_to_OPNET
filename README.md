@@ -1,5 +1,7 @@
 [中文版](README_CN.md)
 
+[Full Version Documents](README_EN.pdf)
+
 # Summary
 
    SUMO, as a traffic simulation software, can generate realistic traffic trajectory of vehicle by combining with the real road network provided by OpenStreetMap official website. OPNET, a popular network simulation software, establishes network equipment, communication link and protocol model and simulating traffic transmission to evaluates network performance and optimizes its design by, which has been applied to vehicle network communication simulation well. 
